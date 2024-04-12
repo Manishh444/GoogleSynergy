@@ -306,7 +306,11 @@ body.nav-active { overflow: hidden; }
 }
 
 .header.active .nav-open-btn { color: var(--charcoal); }
+.logo-hero-title{
+  font-size: 3.5rem;
+  color: var(--white);
 
+}
 .navbar {
   position: fixed;
   top: 0;
